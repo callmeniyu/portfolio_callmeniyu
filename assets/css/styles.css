@@ -1234,3 +1234,8 @@ body.light-theme {
     width: 350px !important;
   }
 }
+@media (max-width:400px) {
+  .work__img{
+    width: 100%;
+  }
+}
