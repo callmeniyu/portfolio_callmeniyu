@@ -1236,6 +1236,6 @@ body.light-theme {
 }
 @media (max-width:400px) {
   .work__img{
-    width: 100%;
+    width: 80%;
   }
 }
